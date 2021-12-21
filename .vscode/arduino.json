@@ -1,0 +1,6 @@
+{
+    "output": "../build",
+    "board": "arduino:avr:leonardo",
+    "port": "COM4",
+    "sketch": "motion_sensor.ino"
+}
